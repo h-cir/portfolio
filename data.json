@@ -24,12 +24,22 @@
     {
       "id": 0,
       "name": "댕댕한바퀴 (반려견 산책 서비스)",
-      "description": "반려견 산책 기록 및 스마트한 산책 관리를 위한 웹 서비스",
+      "description": "반려견 산책 기록 및 스마트한 산책 관리를 위한 웹 서비스 (프론트엔드 2명, 백엔드 3명)",
       "webUrl": "",
-      "repoUrl": "https://github.com/choi-sus/dangdang_FE",
+      "repoUrl": "https://github.com/h-cir/dangdang_FE",
       "isTeam": true,
       "period": ["2022.02.25", "2022.04.08"],
-      "stack": ["React", "styled-components", "AWS S3", "CloudFront", "Rout53", "GitHub Actions (CI/CD)"]
+      "stack": ["React", "styled-components", "AWS S3", "CloudFront", "Route53", "GitHub Actions (CI/CD)"]
+    },
+    {
+      "id": 1,
+      "name": "AWS 고가용성 3-Tier 아키텍처 설계/구축 프로젝트",
+      "description": "기존 로컬 애플리케이션을 AWS 기반 고가용성 3-Tier 아키텍처로 설계/구축한 프로젝트입니다. VPC 내 퍼블릭/프라이빗 서브넷 계층 분리, 로드밸런싱, 오토스케일링, GCP 연동 백업 환경을 구성하여 고가용성과 데이터 안정성을 확보했습니다.",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2025.06.30", "2025.07.04"],
+      "stack": []
     },
     {
       "id": 2,
@@ -39,7 +49,7 @@
       "repoUrl": "https://github.com/orgs/Cloud-Jet/repositories",
       "isTeam": true,
       "period": ["2025.07.29", "2025.09.30"],
-      "stack": ["AWS", "Kubernetes", "Docker", "Terraform", "GitOps", "Istio", "Helm", "IRSA"]
+      "stack": []
     }
   ],
 
@@ -84,26 +94,26 @@
     {
       "id": 0,
       "name": "2종보통 운전면허",
-      "date": "2012. 08",
+      "date": "2012. 08. 13",
       "organizer": "경찰청(운전면허시험관리단)"
     },
     {
       "id": 1,
       "name": "컴퓨터활용능력 2급",
-      "date": "2014. 12",
-      "organizer": "ETS"
+      "date": "2014. 12. 26",
+      "organizer": "대한상공회의소"
     },
     {
       "id": 2,
-      "name": "CSTS Foundation Level",
-      "date": "2024. 08",
+      "name": "SW테스트전문가(CSTS) 일반등급(Foundation Level)",
+      "date": "2024. 08 .17",
       "organizer": "한국정보통신기술협회(TTA)"
     },
     {
       "id": 3,
-      "name": "리눅스 마스터 2급",
-      "date": "2025. 10",
-      "organizer": "한국정보통신인력개발센터"
+      "name": "리눅스마스터 2급",
+      "date": "2025. 10. 03",
+      "organizer": "한국정보통신진흥협회"
     }
 
   ],
